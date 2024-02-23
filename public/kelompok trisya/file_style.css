@@ -1,0 +1,17 @@
+body{
+    background: #aabb22;
+    color: white;
+    }
+    h2{
+    color: blue;
+    }
+    <html>
+    <head>
+    <title>contoh css linked</title>
+    <link rel="stylesheet" type="text/css" href="file_style.css">
+    </head>
+    <body>
+    <h2>Contoh menggunakan css linked</h2>
+    <p>Berikut ini tampilan dengan mengunakan css</p>
+    </body>
+    </html>
